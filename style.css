@@ -13,6 +13,7 @@ Body{
     text-align: center;
 }
 .header, .nav, .footer{
+    vertical-align: middle;
     height: 60px;
     padding: 10px 0; 
 }
